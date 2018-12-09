@@ -39,7 +39,7 @@ Requirements are listed in : *requirements.txt* file
 
 After installing dependencies, script can be run as follows:
 
-    cd mavericks
+    cd familyTree
     python3 family_tree.py
 
 On running this, a prepopulated tree will be shown.
