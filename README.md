@@ -1,6 +1,12 @@
 # FAMILY TREE
 ==========================================
 
+<div align="center">
+  <a href="http://htmlpreview.github.io/?https://raw.githubusercontent.com/vaulstein/familyTree/master/htmlcov/index.html">
+    <img src="https://raw.githubusercontent.com/vaulstein/familyTree/master/coverage.svg" alt="Codecov" />
+  </a>
+</div>
+
 ## INSTALLATION/DEPENDENCIES
 
 Python version for which code has been run is **Python 3.6**
