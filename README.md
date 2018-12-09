@@ -1,11 +1,8 @@
 # FAMILY TREE
 ==========================================
 
-<div align="left">
-  <a href="http://htmlpreview.github.io/?https://raw.githubusercontent.com/vaulstein/familyTree/master/htmlcov/index.html">
-    <img src="http://htmlpreview.github.io/?https://raw.githubusercontent.com/vaulstein/familyTree/master/coverage.svg" alt="coverage" />
-  </a>
-</div>
+
+![](https://vaulstein.github.io/coverage-familytree.svg)
 
 ## INSTALLATION/DEPENDENCIES
 
@@ -62,6 +59,8 @@ To generate coverage report html files, run:
 
     python3 -m pytest --cov=. --cov-report html
 
+
+[Coverage Report](http://htmlpreview.github.io/?https://raw.githubusercontent.com/vaulstein/familyTree/master/htmlcov/index.html)
 
 You can check the last run coverage report file in *htmlcov*.
 Open the index.html to view detailed report of hits and misses.
