@@ -1,9 +1,9 @@
 # FAMILY TREE
 ==========================================
 
-<div align="center">
+<div align="left">
   <a href="http://htmlpreview.github.io/?https://raw.githubusercontent.com/vaulstein/familyTree/master/htmlcov/index.html">
-    <img src="https://raw.githubusercontent.com/vaulstein/familyTree/master/coverage.svg" alt="Codecov" />
+    <img src="http://htmlpreview.github.io/?https://raw.githubusercontent.com/vaulstein/familyTree/master/coverage.svg" alt="coverage" />
   </a>
 </div>
 
